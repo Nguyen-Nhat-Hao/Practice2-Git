@@ -1,5 +1,8 @@
 <template>
+  <div>
     <button @click="buttonClicked">Click me!</button>
+    <p>abc</p>
+  </div>
   </template>
   
   <script>
