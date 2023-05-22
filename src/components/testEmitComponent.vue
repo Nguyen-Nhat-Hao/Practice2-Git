@@ -2,6 +2,7 @@
   <div>
     <h2>Please Click Me !</h2>
     <button @click="buttonClicked">Click me!</button>
+    <p> resolve conflict here</p>
   </div>
 </template>
 
