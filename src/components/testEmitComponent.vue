@@ -5,6 +5,7 @@
     <div>
       <p> what your name ?</p>
     </div>
+    <p> resolve conflict here</p>
   </div>
 </template>
 
