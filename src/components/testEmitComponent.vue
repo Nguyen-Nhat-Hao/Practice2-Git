@@ -2,6 +2,9 @@
   <div>
     <button @click="buttonClicked">Click me!</button>
     <p>abc</p>
+    <div>
+      <p> what your name ?</p>
+    </div>
   </div>
   </template>
   
