@@ -3,7 +3,7 @@
     <h2>Please Click Me !</h2>
     <button @click="buttonClicked">Click me!</button>
     <div>
-      <p> what you name ?</p>
+      <p> what your name ?</p>
     </div>
   </div>
 </template>
