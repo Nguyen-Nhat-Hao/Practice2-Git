@@ -3,7 +3,8 @@
     <button @click="buttonClicked">Click me!</button>
     <p>abc</p>
     <div>
-      <p> what your name ?</p>
+      <p> what your name ? my name is hao</p>
+
     </div>
   </div>
   </template>
